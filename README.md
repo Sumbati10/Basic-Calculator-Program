@@ -2,6 +2,13 @@
 
 A simple web-based calculator application built using Flask and Python. This calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+## Demo Screenshot
+
+Here is a screenshot of the Basic Calculator:
+
+![Demo Screenshot](https://github.com/Sumbati10/Basic-Calculator-Program/blob/main/demo.png)
+
+
 ## Features
 
 - Addition, subtraction, multiplication, and division operations.
